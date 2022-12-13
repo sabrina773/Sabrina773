@@ -1,7 +1,7 @@
 ### Hey there 👋 I am Sabrina Ahamed.
 Lives in Berlin.Full stack Web developer who loves to take new challenges.
 - 🌱 I’m currently learning React
-- - 📫 How to reach me: tazrian.zawad14@gmail.com
+- 📫 How to reach me: tazrian.zawad14@gmail.com
 <!--
 **sabrina773/Sabrina773** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
