@@ -1,4 +1,4 @@
-### Hey there 👋 I am Sabrina Ahamed.
+### Hey there,I am Sabrina Ahamed 👋 
 Lives in Berlin.Full stack Web developer who loves to take new challenges.
 - 🌱 I’m currently learning React
 - 📫 How to reach me: tazrian.zawad14@gmail.com
